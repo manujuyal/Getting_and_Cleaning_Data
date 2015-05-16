@@ -1,7 +1,7 @@
 ---
-title: "ReadMe"
-date: "Saturday, May 16, 2015"
----
+title: "ReadMe"  
+date: "Saturday, May 16, 2015"  
+---  
 This repo is for the course project for Getting and Cleaning Data Course. Below is the description of the other files uploaded for this course.
 
 **1. run_analysis.R**: This R Script is for creating a Tidy Dataset from the files in UCI HAR Dataset. The instruction and steps to create the Tidy Dataset is provided in the CodeBook.md. This R Script creates tidydata.txt file in the working directory
