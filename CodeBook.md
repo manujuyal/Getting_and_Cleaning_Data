@@ -1,7 +1,9 @@
 ---
-title: "CodeBook: run_anaysis.R"
+title: "CodeBook"
 date: "Friday, May 15, 2015"
 ---
+#CodeBook
+
 ## Creating Tidy Data
 The instruction below explain the process and steps taken to create a tidy dataset from the data files provided in UCI HAR Dataset
 
